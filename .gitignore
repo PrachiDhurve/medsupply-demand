@@ -1,6 +1,26 @@
+# Virtual environment
 .venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-database/*.db
-outputs/
+*.pyo
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Database (local only)
+database/*.db
+
+# Ignore everything in outputs EXCEPT model + features
+outputs/*
+!outputs/demand_model.pkl
+!outputs/features.json
