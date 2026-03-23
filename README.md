@@ -1,5 +1,8 @@
 # MedSupply Demand Forecasting
 
+## Live app 
+https://medsupply-demand-nshnoft2b2ypv4hsjyxamy.streamlit.app/
+
 ## Overview
 This project builds an end-to-end demand forecasting pipeline for pharmaceutical products using historical daily sales data. The goal is to predict next-day demand using time-series feature engineering and machine learning.
 
