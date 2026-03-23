@@ -80,6 +80,12 @@ The final tuned Gradient Boosting model outperformed the naive baseline.
 #### Naive baseline
 - MAE: ~4.30
 
+Final model: Tuned Gradient Boosting
+MAE: ~3.26
+RMSE: ~5.20
+R²: ~0.77
+Improvement over naive baseline: ~24%
+
 This shows the ML model achieved roughly 24% improvement over the baseline.
 
 ## Key Insights
